@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.465437c5.css","mappings":"AAAA;EACE,YAAY;AACd","sources":["webpack://fms-react/./src/App.css"],"sourcesContent":[".card {\r\n  width: 36rem;\r\n}\r\n"],"names":[],"sourceRoot":""}
